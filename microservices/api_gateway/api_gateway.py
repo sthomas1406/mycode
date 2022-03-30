@@ -6,7 +6,7 @@ Dragon Cafe Microservices API Gateway
 Author: Sam Griffith | Org: Alta3 Research Inc.
 
 This is the primary microservice that users from the "outside" will connect to
-in order to access the microservices within.
+in order to access the microservices within. ...
 """
 
 from aiohttp import web
